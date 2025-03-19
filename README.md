@@ -83,7 +83,9 @@ void main()
 ```
 
 ## OUTPUT:
+
 Simulating Caesar Cipher
+
 ![image](https://github.com/user-attachments/assets/9a36deb8-b9bd-4602-b492-83ee22359374)
 
 Input : amrutha
@@ -333,6 +335,7 @@ int main() {
 ```
 
 ## OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/c852a00a-e276-40d7-abd1-2f97ad3c3e5e)
 
 Key text: hello 
@@ -464,7 +467,9 @@ int main() {
 }
 ```
 ## OUTPUT:
+
 Simulating Hill Cipher
+
 ![image](https://github.com/user-attachments/assets/cffdf0bf-088c-46b8-9847-2da09b3ba228)
 
 Input Message : amrutha
@@ -483,7 +488,7 @@ The program is executed successfully.
 
 # Vigenere Cipher
 
-Using Vigenere Cipher method with different key values
+Using Vigenere Cipher method with different key values.
 
 ## AIM:
 
@@ -566,7 +571,9 @@ int main() {
 }
 ```
 ## OUTPUT:
+
 Simulating Vigenere Cipher
+
 ![image](https://github.com/user-attachments/assets/baff8b81-9230-4620-a083-f1ff252d94d9)
 
 Input Message : saveethaengineeringcollege
@@ -651,6 +658,7 @@ int main() {
 }
 ```
 ## OUTPUT:
+
 ![image](https://github.com/user-attachments/assets/ca3fc962-1bad-4391-a1fa-fd1eb596c6e7)
 
 Enter a Secret Message: amrutha
